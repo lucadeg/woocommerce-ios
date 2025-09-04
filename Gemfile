@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 group :screenshots, optional: true do
-  gem 'rmagick', '~> 4.1'
+  gem 'rmagick', '~> 5.3'
 end
 
 gem 'cocoapods', '~> 1.14'
